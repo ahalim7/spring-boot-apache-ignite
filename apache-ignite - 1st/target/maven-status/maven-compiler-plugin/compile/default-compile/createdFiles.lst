@@ -1,0 +1,10 @@
+org/halim/ignite/ApacheIgniteApplication.class
+org/halim/ignite/repository/ContactRepository.class
+org/halim/ignite/config/DbConfiguration.class
+org/halim/ignite/model/Person.class
+org/halim/ignite/repository/PersonRepository.class
+org/halim/ignite/controller/ContactController.class
+org/halim/ignite/controller/PersonController.class
+org/halim/ignite/model/Contact.class
+org/halim/ignite/model/Gender.class
+org/halim/ignite/model/ContactType.class
